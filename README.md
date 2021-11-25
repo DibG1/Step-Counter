@@ -10,4 +10,4 @@ The NodeMCU sends the clock pulse to the MPU6050 establishing master-slave conne
 
 The NodeMCU peridocially pushes the data to Blynk. We view this data using a virtual pin.
 
-![image](https://user-images.githubusercontent.com/78297958/143437214-fc05677e-36ec-4274-baca-a58b7dba8d83.png)
+![image](https://user-images.githubusercontent.com/78297958/143437485-30417f68-ae37-4afd-8ac1-1170a83cd888.png)
